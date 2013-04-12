@@ -1,6 +1,3 @@
-Sorry for that terrible written english, but my german isn't even better. ;-)
-
-
 A Client Version of node-assertthat
 ===================================
 
